@@ -1,0 +1,7 @@
+/Users/juliencrouzillard/IdeaProjects/backend-challenge/src/main/java/com/example/backendchallenge/BackendChallengeApplication.java
+/Users/juliencrouzillard/IdeaProjects/backend-challenge/src/main/java/com/example/backendchallenge/service/PasswordService.java
+/Users/juliencrouzillard/IdeaProjects/backend-challenge/src/main/java/com/example/backendchallenge/controller/PasswordController.java
+/Users/juliencrouzillard/IdeaProjects/backend-challenge/src/main/java/com/example/backendchallenge/validator/PasswordValidator.java
+/Users/juliencrouzillard/IdeaProjects/backend-challenge/src/main/java/com/example/backendchallenge/dto/PasswordRequestDTO.java
+/Users/juliencrouzillard/IdeaProjects/backend-challenge/src/main/java/com/example/backendchallenge/dto/PasswordResponseDTO.java
+/Users/juliencrouzillard/IdeaProjects/backend-challenge/src/main/java/com/example/backendchallenge/domain/Password.java
