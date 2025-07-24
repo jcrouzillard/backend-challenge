@@ -1,7 +1,0 @@
-com/example/backendchallenge/controller/PasswordController.class
-com/example/backendchallenge/dto/PasswordResponseDTO.class
-com/example/backendchallenge/validator/PasswordValidator.class
-com/example/backendchallenge/domain/Password.class
-com/example/backendchallenge/dto/PasswordRequestDTO.class
-com/example/backendchallenge/service/PasswordService.class
-com/example/backendchallenge/BackendChallengeApplication.class
